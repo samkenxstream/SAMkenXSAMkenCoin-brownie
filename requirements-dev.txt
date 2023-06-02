@@ -18,7 +18,7 @@ bump2version==1.0.1
     # via bumpversion
 bumpversion==0.6.0
     # via -r requirements-dev.in
-certifi==2021.10.8
+certifi==2022.5.18.1
     # via
     #   -c requirements.txt
     #   requests
@@ -38,7 +38,7 @@ coverage[toml]==6.3.3
     # via
     #   -r requirements-dev.in
     #   pytest-cov
-cryptography==37.0.2
+cryptography==41.0.0
     # via secretstorage
 distlib==0.3.4
     # via virtualenv
